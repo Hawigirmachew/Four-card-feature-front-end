@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution](https://www.frontendmentor.io/challenges/four-card-feature-section-weK1eFYK/hub/responsive-page-using-css-flexbox-F3l69oTVGI)
+- Live Site URL: [LIve-site](https://funny-speculoos-6c92ae.netlify.app/)
 
 ## My process
 
@@ -45,7 +45,7 @@ Users should be able to:
 
 ## Author
 
-- Website - [Hawi Girmachew](https://www.your-site.com)
+- Website - [Hawi Girmachew](https://funny-speculoos-6c92ae.netlify.app/)
 - Frontend Mentor - [@Hawigirmachew](https://www.frontendmentor.io/profile/yourusername)
 - Twitter - [@ygirmachee_h](https://www.twitter.com/girmachee_h)
 
